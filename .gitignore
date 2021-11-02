@@ -1,0 +1,16 @@
+*.fdb_latexmk
+*.aux
+*.fls
+*.log
+*.pdf
+*.synctex.gz
+*.synctex
+*.synctex(busy)
+*.bbl
+*.blg
+*.bcf
+*.xml
+*.out
+*.icloud
+*.zip
+.DS_Store
